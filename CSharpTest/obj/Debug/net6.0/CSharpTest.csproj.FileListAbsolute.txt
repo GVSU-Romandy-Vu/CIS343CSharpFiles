@@ -1,0 +1,15 @@
+C:\Users\roman\Desktop\CSharpTest\bin\Debug\net6.0\CSharpTest.exe
+C:\Users\roman\Desktop\CSharpTest\bin\Debug\net6.0\CSharpTest.deps.json
+C:\Users\roman\Desktop\CSharpTest\bin\Debug\net6.0\CSharpTest.runtimeconfig.json
+C:\Users\roman\Desktop\CSharpTest\bin\Debug\net6.0\CSharpTest.dll
+C:\Users\roman\Desktop\CSharpTest\bin\Debug\net6.0\CSharpTest.pdb
+C:\Users\roman\Desktop\CSharpTest\obj\Debug\net6.0\CSharpTest.csproj.AssemblyReference.cache
+C:\Users\roman\Desktop\CSharpTest\obj\Debug\net6.0\CSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman\Desktop\CSharpTest\obj\Debug\net6.0\CSharpTest.AssemblyInfoInputs.cache
+C:\Users\roman\Desktop\CSharpTest\obj\Debug\net6.0\CSharpTest.AssemblyInfo.cs
+C:\Users\roman\Desktop\CSharpTest\obj\Debug\net6.0\CSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\roman\Desktop\CSharpTest\obj\Debug\net6.0\CSharpTest.dll
+C:\Users\roman\Desktop\CSharpTest\obj\Debug\net6.0\refint\CSharpTest.dll
+C:\Users\roman\Desktop\CSharpTest\obj\Debug\net6.0\CSharpTest.pdb
+C:\Users\roman\Desktop\CSharpTest\obj\Debug\net6.0\CSharpTest.genruntimeconfig.cache
+C:\Users\roman\Desktop\CSharpTest\obj\Debug\net6.0\ref\CSharpTest.dll
